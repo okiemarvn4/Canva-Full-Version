@@ -277,4 +277,4 @@ This repository serves as the official landing page for Canva. The software is d
 **Get the most recent version of Canva today!**
 
 ---
-**Last updated:** 2026-09-28 20:54:05 UTC
+**Last updated:** 2026-09-29 00:41:36 UTC
